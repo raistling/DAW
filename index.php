@@ -8,6 +8,7 @@
 <body>
     <?php 
         echo "<h1>Ejercicio GIT</h1>";
+        echo "<p>Otra línea más</p>";
     ?>
 </body>
 </html>
